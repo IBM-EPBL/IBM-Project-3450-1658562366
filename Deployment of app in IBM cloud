@@ -1,0 +1,26 @@
+Deployment of App in IBM Cloud
+
+Containerize the App
+
+
+
+
+Team ID	PNT2022TMID43211
+Project Name	Nutrition Assistant Application
+
+
+
+
+
+
+Step – 1 : Create a docker file and paste the code
+
+ 
+Step - 2 : Build an image from the docker file.
+
+
+
+
+
+Step - 3 : Run your container locally.
+
